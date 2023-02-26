@@ -37,13 +37,6 @@ const quizData = [
             d: 'Rimmy',
             correct: "a"
         }
-
-
-
-    
-
-
-
 ]
 
 
